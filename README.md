@@ -1,6 +1,6 @@
 # Criando um slider para aplicar futuramente
 
-## Imagens
+## PREVIEW
 
   <p>    
   <img src="images/screen.png" width="400" alt="preview">
