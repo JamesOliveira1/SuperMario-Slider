@@ -1,4 +1,4 @@
-# Criando um slider para aplicar futuramente
+# Um slider para aplicar futuramente
 
 ## PREVIEW
 
